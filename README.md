@@ -69,10 +69,11 @@ The username field is vulnerable. Put (ganesh’ #) or (ganesh’--) in the user
 
 Now after logging out you will see the login page. In the login page give ganesh’ # . You can see the page now enters into the administrator page as before when giving the password. 
 
-![Screenshot 2023-06-10 223645](https://github.com/praveenst13/sqlinjection/assets/118787793/cb326fd0-509f-4df9-b97d-8a65bf1f0716)
+![Screenshot 2023-06-10 223645]<img width="856" alt="image" src="https://github.com/user-attachments/assets/d32b8bc5-62a5-49b7-9a54-4ad10c2de5de">
 
 Click the login button and you will see it enter into the administrator page.
-![Screenshot 2023-06-10 223656](https://github.com/praveenst13/sqlinjection/assets/118787793/ac33b189-494b-4a5f-bce2-b840ab35e5fc)
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/48ff1119-0cd8-4e66-aa01-ce64205abbfb">
+
 
 
 ## Union-based SQL injection
