@@ -40,7 +40,7 @@ Click on the menu Login/Register and register for an account
 
 Click on the link “Please register here”
 
-<img width="860" alt="image" src="https://github.com/user-attachments/assets/46b289e4-8326-4b76-b9ce-cf05fa49da88">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/64272921-4b51-43af-894b-9a4e320f615a">
 
 Click on “Create Account” to display the following page:
 
