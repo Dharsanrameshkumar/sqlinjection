@@ -36,6 +36,8 @@ Select Multidae from the menu listed as shown above. You will get the page as di
 
 Click on the menu Login/Register and register for an account
 
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/46b289e4-8326-4b76-b9ce-cf05fa49da88">
+
 Click on the link “Please register here”
 
 <img width="860" alt="image" src="https://github.com/user-attachments/assets/46b289e4-8326-4b76-b9ce-cf05fa49da88">
